@@ -1,5 +1,5 @@
 # unb
-unb
+turn off extensions that use Manifest v2. this exploit is not by me!!!
 
 # Requirements
 - chrome://flags
