@@ -14,6 +14,6 @@ unb
 2. Restart.
 3. The extensions that used Manifest v2 should be disabled.
 
-Credits:
-I'm not too sure but it's in the Titanium Network server (I'm banned from it)
-I know because someone forwarded the original exploit
+# Credits:
+- I'm not too sure but it's in the Titanium Network server (I'm banned from it)
+- I know because someone forwarded the original exploit
