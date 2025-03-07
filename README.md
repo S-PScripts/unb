@@ -1,5 +1,5 @@
 # Deprescape
-Turn off extensions that use Manifest v2. this exploit is not by me!!!
+Turn off extensions that use Manifest v2. This exploit is not by me!!!
 
 # Requirements
 - chrome://flags
