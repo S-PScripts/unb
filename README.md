@@ -1,5 +1,5 @@
 # Deprescape
-Turn off extensions that use Manifest v2. This exploit is not by me!!!
+Turn off extensions that use Manifest v2. **This exploit is not by me!**
 
 # Requirements
 - chrome://flags
@@ -17,5 +17,5 @@ Turn off extensions that use Manifest v2. This exploit is not by me!!!
 3. The extensions that used Manifest v2 should be disabled.
 
 # Credits:
-- I'm not too sure but it's in the Titanium Network server (I'm banned from it)
-- I know because someone forwarded the original exploit (it's called Deprescape)
+- I'm not too sure who made this exploit but it's in the Titanium Network server (I'm banned from it).
+- I know what it is because someone forwarded the original exploit (it's called Deprescape).
